@@ -192,7 +192,7 @@ const Footer = ({ links = {} }) => {
           color='inherit'
           fontFamily='var(--font-title)'
         >
-          &copy; {new Date().getFullYear()} Shree Chamudeshwari Devi Jyothisyalaya.
+          &copy; {new Date().getFullYear()} Kerala Prasiddha Jyothisyaru Jyothisyalaya.
           All rights reserved.
         </Typography>
       </Box>
