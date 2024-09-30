@@ -1,0 +1,43 @@
+:root {
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  --font-title: 'Poppins';
+
+  --light: #f2f2f2;
+  --slate-blue: #6a5acd;
+  --dark: #111;
+  --orange: #FFA500;
+  --neutral-cream: #F5F5DC;
+  --somkey-gray: #2E2E2E;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+  scrollbar-width: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  overflow-x: hidden;
+
+  min-width: 320px;
+  width: 100vw;
+  width: 100svw;
+
+  min-height: 100vh;
+  height: 100vh;
+  height: 100svh;
+
+  background-color: var(--light);
+}
