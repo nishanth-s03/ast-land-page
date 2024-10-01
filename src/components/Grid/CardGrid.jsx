@@ -135,7 +135,7 @@ const CardGrid = () => {
             fontFamily={'var(--font-title)'}
             gutterBottom
           >
-            Pandith Shree Nagarajan who present oneself from a family of
+            Pandith Prasad Poduval who present oneself from a family of
             astrologists and features a rich amount of data throughout. He has
             studied astrology from his forefathers as his prime subjects.
           </Typography>
@@ -169,7 +169,7 @@ const CardGrid = () => {
               fontFamily={'var(--font-title)'}
               gutterBottom
             >
-              {`Pandith Shree Nagarajan alongside his father and forefathers have
+              {`Pandith Prasad Poduval alongside his father and forefathers have
             to preserve their lives by lending a hand to people with their Vedic
             puja's, prayers and rituals based social conduct on Hindu customs
             and other religions.`}
