@@ -59,7 +59,7 @@ const Footer = ({ links = {} }) => {
           >
             Pandith Prasad Poduval
             <br />
-            Near Giriyas Building Court
+            Baliga Arcade Complex, Opp to Geethanjali Silks
             <br />
             Udupi, Karnataka
           </Typography>
