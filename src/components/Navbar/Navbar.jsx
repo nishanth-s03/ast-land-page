@@ -243,6 +243,15 @@ const Header = ({ links }) => {
         >
           <Instagram htmlColor='var(--dark)' />
         </IconButton>
+        <IconButton
+          size='small'
+          href={links.youtubeLink}
+          target='_blank'
+          title='YouTube'
+          aria-label='youtube'
+        >
+          <YouTube htmlColor='var(--dark)' />
+        </IconButton>
       </Box>
     </Box>
   )

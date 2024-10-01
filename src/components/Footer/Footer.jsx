@@ -153,6 +153,17 @@ const Footer = ({ links = {} }) => {
               </IconButton>
             )}
 
+            {links.youtubeLink && (
+              <IconButton
+                color='inherit'
+                href={links.youtubeLink}
+                target='_blank'
+                aria-label='YouTube'
+              >
+                <YouTube />
+              </IconButton>
+            )}
+
             {links.phone && (
               <IconButton
                 color='inherit'
