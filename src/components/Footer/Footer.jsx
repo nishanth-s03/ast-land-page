@@ -159,6 +159,7 @@ const Footer = ({ links = {} }) => {
                 href={links.youtubeLink}
                 target='_blank'
                 aria-label='YouTube'
+                
               >
                 <YouTube />
               </IconButton>
