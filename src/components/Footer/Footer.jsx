@@ -61,7 +61,7 @@ const Footer = ({ links = {} }) => {
             <br />
             Baliga Arcade Complex, Opp to Geethanjali Silks
             <br />
-            Udupi, Karnataka
+            Udupi, Karnataka - 576101
           </Typography>
         </Box>
 

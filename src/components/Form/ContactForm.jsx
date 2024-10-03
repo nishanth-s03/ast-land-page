@@ -297,6 +297,21 @@ const ContactForm = ({ links }) => {
             {links.phone[1]}
           </Typography>
         </Button>
+        <Button
+          startIcon={<CallOutlined fontSize='small' />}
+          color='inherit'
+          href={`tel:${links.phone[1]}`}
+          aria-label='phone'
+          fullWidth
+        >
+          <Typography
+            variant='caption'
+            textTransform={'lowercase'}
+            fontFamily={'var(--font-title)'}
+          >
+            {links.phone[2]}
+          </Typography>
+        </Button>
       </Box>
     </Box>
   )
