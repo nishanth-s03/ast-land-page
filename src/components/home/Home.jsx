@@ -122,8 +122,8 @@ const Home = ({ isSmallScreen, links }) => {
         <HomeCard
           imageSrc="/assets/home/1395711.webp"
           altTitle="Results"
-          mainTitle="Vasheekarana Specialist"
-          subTitle="100% results within 24 Hours"
+          mainTitle="Vasheekarana"
+          subTitle="Specialist"
         />
         <HomeCard
           imageSrc="/assets/home/world.webp"
