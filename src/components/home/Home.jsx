@@ -58,7 +58,7 @@ const Home = ({ isSmallScreen, links }) => {
             align="center"
             gutterBottom
           >
-            By Pandith Prasad Poduval
+            By Pandith Girish Panikar
           </Typography>
           <Typography
             variant="h6"
@@ -97,7 +97,7 @@ const Home = ({ isSmallScreen, links }) => {
             href={links.locationLink}
             target="_blank"
           >
-            ಶ್ರೀ ಕೇರಳ ಪ್ರಸಿದ್ಧ ಜ್ಯೋತಿಷ್ಯರು <br /> ಬಾಳಿಗಾ ಆರ್ಕೇಡ್ ಕಾಂಪ್ಲೆಕ್ಸ್, ಗೀತಾಂಜಲಿ ಸಿಲ್ಕ್ಸ್ ಎದುರು, ಉಡುಪಿ - 576101
+            ಶ್ರೀ ಕೇರಳ ಪ್ರಸಿದ್ಧ ಜ್ಯೋತಿಷ್ಯರು <br /> ಬಾಳಿಗಾ ಆರ್ಕೇಡ್, ಗೀತಾಂಜಲಿ ಸಿಲ್ಕ್ಸ್ ಎದುರು, ಉಡುಪಿ - 576101
           </Typography>
         </Box>
       </Box>

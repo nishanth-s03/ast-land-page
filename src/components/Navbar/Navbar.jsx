@@ -329,7 +329,7 @@ const Navbar = ({ links }) => {
                 textTransform={'capitalize'}
                 component={'span'}
               >
-                Pandith Prasad Poduval
+                Pandith Girish Panikar
               </Typography>
             </Typography>
           </Box>

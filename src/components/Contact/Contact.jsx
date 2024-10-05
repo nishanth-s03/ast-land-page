@@ -40,7 +40,7 @@ const ContactSection = ({ Logo, isSmallScreen, links }) => {
               fontFamily={'var(--font-title)'}
               gutterBottom
             >
-              Pandith Prasad Poduval
+              Pandith Girish Panikar
             </Typography>
             <Divider />
           </Box>

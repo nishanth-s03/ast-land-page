@@ -57,9 +57,9 @@ const Footer = ({ links = {} }) => {
             fontFamily='var(--font-title)'
             textTransform='capitalize'
           >
-            Pandith Prasad Poduval
+            Pandith Girish Panikar
             <br />
-            Baliga Arcade Complex, Opp to Geethanjali Silks
+            Baliga Arcade, Opp to Geethanjali Silks
             <br />
             Udupi, Karnataka - 576101
           </Typography>
